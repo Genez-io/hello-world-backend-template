@@ -1,0 +1,5 @@
+name: template-name
+region: us-east-1
+language: ts
+scripts:
+  preBackendDeploy: npm install
